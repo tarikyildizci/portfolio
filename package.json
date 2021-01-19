@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-starter-hello-world",
+  "name": "portfolio",
   "private": true,
-  "description": "A simplified bare-bones starter for Gatsby",
+  "description": "Portfolio website of Tarık Yusuf Yıldızcı",
   "version": "0.1.0",
   "license": "0BSD",
   "scripts": {
@@ -14,9 +14,13 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/icons": "^4.11.2",
     "gatsby": "^2.26.1",
+    "gatsby-plugin-google-fonts-v2": "0.0.6",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "react-scroll": "^1.8.1"
   },
   "devDependencies": {
     "prettier": "2.2.1"
