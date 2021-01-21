@@ -1,22 +1,22 @@
 [
   {
-    "title": "First Project",
-    "description": "lorem iipsum dfıeon jsoe fjseo sdpgbsofb hnwogn ssong v",
-    "image": "somePath",
-    "demo": "demoPath",
-    "code": "codePath"
+    "id": 1,
+    "title": "Shoestore",
+    "description": "A product lister, takes the data from an API.",
+    "demo": "https://tarikyildizci.github.io/shoestore/",
+    "code": "https://github.com/tarikyildizci/shoestore"
   },
   {
+    "id": 2,
     "title": "Second Project",
-    "description": "lorem iipsum dfıeon jsoe fjseo sdpgbsofb hnwogn ssong v",
-    "image": "somePath",
+    "description": "lorem iipsum dfıeon jsoe fjseo sdpgbsofb hnwogn ssong v ",
     "demo": "demoPath",
     "code": "codePath"
   },
   {
+    "id": 3,
     "title": "Third Project",
     "description": "lorem iipsum dfıeon jsoe fjseo sdpgbsofb hnwogn ssong v",
-    "image": "somePath",
     "demo": "demoPath",
     "code": "codePath"
   }
